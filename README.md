@@ -14,5 +14,6 @@ docker build --rm -t tugu0203/metawrap_drep_seqkit .
 ## running
 
 ```sh
-docker run --rm  -it tugu0203/metawrap_drep_seqkit
+docker run --rm  -it tugu0203/metawrap_drep_seqkit /bin/bash
 ```
+
