@@ -8,11 +8,11 @@ A metawrap docker container
 ```sh
 git clone git@github.com:hshiroma/metawrap1.2.2.git
 cd metawrap1.2.2
-docker build --rm -t hshiroma/metawrap1.2.2 .
+docker build --rm -t tugu0203/metawrap_drep_seqkit .
 ```
 
 ## running
 
 ```sh
-docker run --rm  -it hshiroma/metawrap1.2.2
+docker run --rm  -it tugu0203/metawrap_drep_seqkit
 ```
