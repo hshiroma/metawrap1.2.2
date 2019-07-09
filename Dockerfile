@@ -1,4 +1,4 @@
-From continuumio/miniconda3:4.6.14
+FROM continuumio/miniconda3:4.6.14
 ENV VERSION 1.2.2
 MAINTAINER siromah
 RUN conda config --add channels defaults && \
